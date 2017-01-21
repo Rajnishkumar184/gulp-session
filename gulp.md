@@ -3,7 +3,7 @@
 ######Table of content
 --------------------
 
-1) What is gulp?
+1) What is gulp & Why we use gulp?
 2) Workflow of gulp vs Grunt.
 3) Installation of gulp.
 4) Creating gulpfile.js,gulpfile.coffee
